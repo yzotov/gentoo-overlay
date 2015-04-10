@@ -6,12 +6,12 @@
     <description>Kamil Domanski's overlay</description>
     <homepage>https://gitorious.org/kdomanski/overlay</homepage>
     <owner>
-      <email>kdomanski@kdemail.net</email>
-      <name>Kamil Domanski</name>
+      <email>yura.zotov@gmail.com</email>
+      <name>Yuriy Zotov</name>
     </owner>
-    <source type="git">git://gitorious.org/kdomanski/overlay.git</source>
-    <source type="git">http://git.gitorious.org/kdomanski/overlay.git</source>
-    <feed>https://gitorious.org/kdomanski/overlay.atom</feed>
+    <!--<source type="git">git://github.com/yzotov/gentoo-overlay.git</source>-->
+    <source type="git">https://github.com/yzotov/gentoo-overlay.git</source>
+    <!--<feed>https://gitorious.org/kdomanski/overlay.atom</feed>-->
   </repo>
 </repositories>
 
